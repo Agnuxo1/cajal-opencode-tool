@@ -2,6 +2,10 @@
 
 > Add scientific paper generation to your OpenCode workflow. Local, free, MIT.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> The OpenCode adapter packages paper, abstract, methods, reference and review commands into an existing development workflow. Reusing these commands can reduce repeated prompt assembly when documenting code and research, with local model execution available through the documented backend. The <a href="#usage">command interface</a> supports drafting convenience; generated results and citations must be checked against actual evidence.</sub>
+<!-- impact-note:end -->
+
 ## What This Tool Does
 
 Extends OpenCode with a `/paper` slash command that generates publication-ready scientific papers via local LLM.
